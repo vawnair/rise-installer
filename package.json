@@ -1,22 +1,18 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-seamless-titlebar-tutorial",
   "version": "1.0.0",
   "description": "A minimal Electron application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
-  "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
-  ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "repository": "https://github.com/binaryfunt/electron-seamless-titlebar-tutorial",
+  "author": "binaryfunt",
+  "license": "MIT",
   "devDependencies": {
-    "electron": "^27.0.2"
+    "electron": "^9.4.0"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
   }
 }
